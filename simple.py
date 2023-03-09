@@ -1,6 +1,5 @@
 import streamlit as st
 import math
-import matplotlib.pyplot as plt
 m = st.slider("Enter the value of slit width")
 st.write(m)
 o = st.slider("Enter the value of theta")
